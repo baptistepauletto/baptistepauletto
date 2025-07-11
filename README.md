@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Baptiste Pauletto
 
-## 🚀 [About Me](https://baptistepauletto.github.io)
+## 🧐 [About Me](https://baptistepauletto.github.io)
 Passionate developer with expertise in data science and software engineering.
 I love spending time creating efficient, scalable solutions and exploring new technologies.
 Always eager to learn and tackle challenging problems.
